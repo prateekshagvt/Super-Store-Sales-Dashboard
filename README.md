@@ -1,5 +1,6 @@
 🛒 Superstore Sales Dashboard – Power BI
 ![ss](https://github.com/user-attachments/assets/48a95758-60a8-41bf-968b-cfff95b11a60)
+<img width="1246" height="698" alt="image" src="https://github.com/user-attachments/assets/c36623bc-13c5-4339-91a9-01e10387320c" />
 
 This project blends the art of data analysis 📊 and visualization 🎨 to provide actionable insights for strategic business decisions.
 
